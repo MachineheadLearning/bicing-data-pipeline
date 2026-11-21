@@ -1,0 +1,5 @@
+{"last_updated": "2026-11-14T23:00:00Z", "ttl": 0, "version": "3.0", "data": {"stations": [
+  {"station_id": "1", "name": [{"text": "GRAN VIA CORTS CATALANES, 760", "language": "ca"}], "lat": 41.3979779, "lon": 2.1801069, "address": "GRAN VIA CORTS CATALANES, 760", "cross_street": "02-Eixample/05-el Fort Pienc", "post_code": "08013", "capacity": 46, "is_charging_station": true, "is_virtual_station": false},
+  {"station_id": "2", "name": [{"text": "C/ ARAGÓ, 265", "language": "ca"}], "lat": 41.3913, "lon": 2.1627, "address": "C/ ARAGÓ, 265", "cross_street": "02-Eixample/04-la Dreta de l'Eixample", "post_code": "08007", "capacity": 32, "is_charging_station": true, "is_virtual_station": false},
+  {"station_id": "3", "name": [{"text": "PL. CATALUNYA (SENSE CODI POSTAL)", "language": "ca"}], "lat": 41.3870, "lon": 2.1700, "address": "PL. CATALUNYA", "cross_street": "02-Eixample/04-la Dreta de l'Eixample", "capacity": 20, "is_charging_station": true, "is_virtual_station": false}
+]}}

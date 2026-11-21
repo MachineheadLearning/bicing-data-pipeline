@@ -1,0 +1,4 @@
+{"last_updated": "2026-11-14T23:00:00Z", "ttl": 0, "version": "3.0", "data": {"vehicle_types": [
+  {"vehicle_type_id": "BOOST", "form_factor": "bicycle", "propulsion_type": "electric_assist", "max_range_meters": 0.0, "name": [{"text": "BOOST", "language": "en"}]},
+  {"vehicle_type_id": "ICONIC", "form_factor": "bicycle", "propulsion_type": "human", "name": [{"text": "ICONIC", "language": "en"}]}
+]}}
